@@ -1,4 +1,4 @@
-# 4ProjetosEmPython
+# Projetos em Python:
 
 Projeto de um Mercado de vends,
 Projeto de um Banco,
