@@ -1,5 +1,6 @@
 # 4ProjetosEmPython
-Projeto de um Mercado de vends
-Projeto de um Banco
-Projeto de um Jogo
-Um projeto de análise de vendas/envio dos resultados no email 
+
+Projeto de um Mercado de vends,
+Projeto de um Banco,
+Projeto de um Jogo,
+Projeto de Analise de vendas com envio dos resultados no email
